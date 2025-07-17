@@ -1,0 +1,28 @@
+{
+  "main": "Hauptseite",
+  "performance": "Rendimiento",
+  "Search": "Buscar",
+  "FAQ": "Preguntas frecuentes",
+  "Terms": "Términos y condiciones",
+  "Privacy Policy": "Política de privacidad",
+  "Blank Page": "Página en blanco",
+  "Components": "Componentes",
+  "Forms": "Formularios",
+  "Basic Input": "Entrada básica",
+  "Input Group": "Grupo de entrada",
+  "Horizontal Form": "Formulario horizontal",
+  "Vertical Form": "Formulario vertical",
+  "Form Mask": "Máscara de formulario",
+  "Form Validation": "Validación de formulario",
+  "Tables": "Tablas",
+  "Basic Tables": "Tablas básicas",
+  "Data Table": "Tabla de datos",
+  "Documentation": "Documentación",
+  "Change": "Cambiar",
+  "Change Log": "Registro de cambios",
+  "Multi Level": "Nivel múltiple",
+  "Level 1": "Nivel 1",
+  "Level 2": "Nivel 2",
+  "Level 3": "Nivel 3"
+
+}
